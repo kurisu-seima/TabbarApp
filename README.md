@@ -1,7 +1,5 @@
 # TabbarApp
 
-概要：タブバーコントローラーを使わずに画面の切り替えをできるようにしたアプリです
+概要：タブを入れ替えるだけのシンプルなアプリですが、TabBarControllerではなくaddChildメソッドを利用しました。
 
-使用した技術：addChildメソッド
-
-学んだこと：ViewControllerに子ViewControllerとしてVCを追加することができる
+学んだこと：ViewControllerに子ViewControllerを追加し画面を切り替える方法
